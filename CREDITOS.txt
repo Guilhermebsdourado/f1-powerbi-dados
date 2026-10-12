@@ -1,0 +1,2 @@
+Tracados das pistas gerados a partir do dataset f1-circuits (https://github.com/bacinger/f1-circuits),
+Copyright (c) 2019-2025 Tomislav Bacinger, licenca MIT (ver LICENSE_f1-circuits.md).
