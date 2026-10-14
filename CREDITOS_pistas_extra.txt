@@ -1,0 +1,2 @@
+Tracados destas 17 pistas gerados a partir dos SVGs do F1DB (https://github.com/f1db/f1db),
+licenca Creative Commons Attribution 4.0 (CC BY 4.0). Cor alterada para o padrao do dashboard.
